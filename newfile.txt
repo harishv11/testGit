@@ -3,3 +3,4 @@ inew file
 new file 1
 new file 1
 new line
+another new line
